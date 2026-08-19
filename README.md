@@ -1,4 +1,4 @@
-Hi, I’m @R0TP2, I am workflows / ML and LLMs engineer specializing in local llms tuning and CNN classification.
+Hi, I’m @R0TP2, I am a workflows / ML and LLMs engineer specializing in local LLMS tuning and CNN classification.
 
 
 📬 Feel free to reach me:
